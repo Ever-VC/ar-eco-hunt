@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146878676386",
+    "project_id": "ar-eco-hunt",
+    "storage_bucket": "ar-eco-hunt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146878676386:android:e89584cdaac00de0a606fb",
+        "android_client_info": {
+          "package_name": "com.evervc.arecohunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146878676386-jh1sp6796m382q4vb1ntm93d5st3a7cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evervc.arecohunt",
+            "certificate_hash": "a86650205c9d8e3cf87924fc697353156d662dd7"
+          }
+        },
+        {
+          "client_id": "146878676386-48ns9bl3jgq3obullrf765ajo82fjjnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDWPxIGFRsuUNGlxes4LRj5_SNHHS-Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146878676386-48ns9bl3jgq3obullrf765ajo82fjjnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
